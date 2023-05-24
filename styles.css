@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+p{
+	font-weight:bold;
+}
+.element{
+	font-size: 20px;
+	color:red;
+}
