@@ -4,6 +4,7 @@ p{
 }
 .element{
 	color:red;
+	display:inline;
 	font-size: 20px;
 	
 }
